@@ -13,7 +13,7 @@
 
 ![Mapa de empatia](imagens/empatia.png)
 
-- Determine o mapa de empatia[1] de pelo menos uma persona primária e uma sercundária.
+- Determine o mapa de empatia[1] de pelo menos duas personas primárias e uma sercundária.
   - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
   - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
   - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou poduto.
