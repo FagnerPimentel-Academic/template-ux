@@ -24,18 +24,20 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 ### Descoberta
 - [Análise de Concorrência](docs/1_concorrencia.md)
 - [Pesquisa e Coleta de Dados com Usuários](docs/2_pesquisa_usuarios.md)
-- [Personas](docs/3_personas.md)
-- [Cenário de Análise/Problema](docs/4_cenarios.md)
+- [Perfil do Usuário](docs/3_perfil_usuario.md)
+- [Personas](docs/4_personas.md)
+- [Cenário de Análise/Problema](docs/5_cenarios.md)
 
 ### Definição
-- [Requisitos de UX e Metas de Usabilidade](docs/5_requisitos_ux.md)
-- [Arquitetura de Informação e Fluxo do Usuário](docs/6_arquitetura_fluxo.md)
+- [Análise de Tarefas](docs/6_analise_tarefas.md)
+- [Requisitos de UX e Metas de Usabilidade](docs/7_requisitos_ux.md)
+- [Arquitetura de Informação e Fluxo do Usuário](docs/8_arquitetura_fluxo.md)
 
 ### Prototipação
-- [Prototipação em Papel](docs/7_prototipacao_papel.md)
-- [Prototipação de Alta Fidelidade (FIGMA)](docs/8_prototipacao_figma.md)
+- [Prototipação em Papel](docs/9_prototipacao_papel.md)
+- [Prototipação de Alta Fidelidade (FIGMA)](docs/10_prototipacao_figma.md)
 
 ### Avaliação
-- [Planejamento da Avaliação](docs/9_planejamento_avaliacao.md)
-- [Avaliação de Usabilidade através de Inspeção Heurística](docs/10_heuristica.md)
-- [Teste de Usabilidade com Observação do Usuário](docs/11_teste_usabilidade.md)
+- [Planejamento da Avaliação](docs/11_planejamento_avaliacao.md)
+- [Avaliação de Usabilidade através de Inspeção Heurística](docs/12_heuristica.md)
+- [Teste de Usabilidade com Observação do Usuário](docs/13_teste_usabilidade.md)
